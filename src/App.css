@@ -1,14 +1,14 @@
-.main-div {
-  width: 300px;
-  height: 200px;
-  background-color: #094183;
-  margin: auto;
-}
-
-.center {
-  margin:auto
-}
-
 body {
   background-color: #094183;
+}
+
+
+.main-div {
+  margin: auto;
+  width: fit-content;
+}
+
+.main-div img {
+  display: block;
+  margin: auto;
 }
