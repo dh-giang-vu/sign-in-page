@@ -4,7 +4,7 @@ import Logo from "./Components/Logo";
 import Textbox from "./Components/Textbox";
 
 function App() {
-  return <div></div>
+  return <div><Logo/><Button/></div>
 }
 
 export default App;
