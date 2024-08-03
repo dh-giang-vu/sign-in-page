@@ -13,7 +13,7 @@ function App() {
         content="Sign in with your University of Melbourne account to access Student Portal"
       />
       <Logo />
-      <div className="center">
+      <div className="center" id="login">
         <Textbox
           color="white"
           fontSize={20}

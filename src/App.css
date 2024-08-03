@@ -4,7 +4,8 @@ body {
 
 .main-div {
   margin: auto;
-  width: fit-content;
+  width: 480px;
+  margin-top: 20px;
 }
 
 .main-div img {
@@ -15,6 +16,14 @@ body {
 .main-div .center p {
   text-align: center;
 }
+
+.main-div > p {
+  display: block;
+  margin: auto;
+  width: 350px;
+  text-align: center;
+}
+
 
 .form {
   width: 70%;
@@ -35,4 +44,8 @@ body {
   display: block;
   margin: auto;
   margin-top: 10px;
+}
+
+#login {
+  margin-top: 70px;
 }
