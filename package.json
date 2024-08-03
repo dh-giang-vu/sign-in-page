@@ -1,9 +1,9 @@
 {
+  "homepage": "https://dh-giang-vu.github.io/sign-in-page",
   "name": "sign-in-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://dh-giang-vu.github.io/sign-in-page",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
